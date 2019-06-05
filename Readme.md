@@ -5,7 +5,7 @@ where a is the sum of all even integers and b is the sum of all odd integers;
 
 2) Create a object based "class" for Wallet with required data attributes and function to credit and debit amount.
 
-3) Through CSS arrange a box in the middle of the page.
+3) Through CSS arrange a box in the middle of the page. (Both horizontally and vertically in center)
 
 4) Create a page with material UI react, add appBar and content with lorem ipsum.
 
